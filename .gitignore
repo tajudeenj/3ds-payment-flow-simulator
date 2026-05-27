@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+*.egg-info/
+dist/
+build/
+.idea/
+*.iml
+target/
+*.class
+node_modules/
+models/
+*.pkl
